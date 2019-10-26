@@ -1,2 +1,2 @@
 # GraphVizPlugin
-Eclipse plugin for GraphViz
+Extension Eclipse pour GraphViz.
